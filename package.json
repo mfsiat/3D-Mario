@@ -1,0 +1,23 @@
+{
+  "name": "3dmario",
+  "version": "1.0.0",
+  "description": "3d mario ",
+  "main": "main.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfsiat/3D-Mario.git"
+  },
+  "author": "cx20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfsiat/3D-Mario/issues"
+  },
+  "homepage": "https://mfsiat.github.io/3D-Mario/blob/master/main.js"
+}
